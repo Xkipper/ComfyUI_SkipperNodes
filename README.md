@@ -1,2 +1,5 @@
-# ComfyUI_SkipperNodes
-ComfyUI Custom Nodes
+# ComfyUI SkipperNodes
+ComfyUI Skipper Custom Nodes
+
+- Simple Text Box
+- Embedding Stack
