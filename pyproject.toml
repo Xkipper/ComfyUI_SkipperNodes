@@ -1,0 +1,14 @@
+[project]
+name = "skippernodes"
+description = "ComfyUI Skipper Custom Nodes"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Xkipper/ComfyUI_SkipperNodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_SkipperNodes"
+Icon = ""
